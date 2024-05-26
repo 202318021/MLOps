@@ -1,4 +1,4 @@
 ## Machine learning opretions
 
-AWS Deployment 
+AWS Deployment
 
