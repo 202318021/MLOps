@@ -7,6 +7,7 @@ Iam User In AWS
 Docker Setup In EC2 commands to be Executed
 #optinal
 
+
 sudo apt-get update -y
 
 sudo apt-get upgrade
